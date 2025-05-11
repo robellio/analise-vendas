@@ -1,0 +1,21 @@
+﻿id_produto,nome_produto,categoria,marca,preco_atual,preco_original,unidades_vendidas,destaque,promocao,lancamento,estoque,avaliacao_media,atributos
+1,Smartphone Alpha 12,Esportes,TechPlus,3550.48,3317.23,2273,0,0,0,479,4.4,Sistema Operacional: Android; Memória: 256GB; Cor: Preto
+2,Camiseta Premium Algodão,Áudio,HomeLife,2120.28,3246.94,3383,0,0,0,436,4.9,"Material: 100% Algodão; Tamanho: P,M,G"
+3,Fone de Ouvido Quantum X3,Vestuário,HomeLife,1266.04,1700.71,3580,1,0,0,23,5.0,Bluetooth: Sim; Autonomia: 30h
+4,Notebook Vision Pro,Informática,NextTech,2893.22,527.28,4648,1,1,0,129,4.3,Processador: Intel i7; SSD: 512GB
+5,Mochila Executiva Voyager,Casa,GadgetZone,3871.06,4858.17,4082,0,1,0,249,4.6,Material: Couro Sintético; Compartimentos: 5
+6,Produto 6,Esportes,SportFlex,2305.93,3428.48,332,0,1,0,153,3.9,Cor: Preto; Tamanho: M
+7,Produto 7,Livros,TechPlus,233.76,4704.56,121,1,0,0,476,4.5,Cor: Vermelho; Tamanho: M
+8,Produto 8,Esportes,BookHouse,3104.76,1536.85,321,0,1,0,347,4.7,Cor: Vermelho; Tamanho: G
+9,Produto 9,Esportes,SoundMaster,1155.88,3414.05,176,0,0,0,414,4.9,Cor: Vermelho; Tamanho: XL
+10,Produto 10,Eletrônicos,SoundMaster,3602.16,1293.94,745,0,0,0,498,3.7,Cor: Preto; Tamanho: P
+11,Produto 11,Áudio,BookHouse,2101.94,1827.42,717,1,1,0,310,4.3,Cor: Preto; Tamanho: XL
+12,Produto 12,Informática,BookHouse,4169.7,2188.07,528,1,0,0,144,4.8,Cor: Vermelho; Tamanho: G
+13,Produto 13,Esportes,SportFlex,3642.32,4628.26,442,1,1,0,224,3.7,Cor: Azul; Tamanho: XL
+14,Produto 14,Informática,GadgetZone,2510.93,2419.81,702,0,0,0,483,4.2,Cor: Azul; Tamanho: G
+15,Produto 15,Vestuário,NextTech,4613.66,5494.73,77,0,1,0,355,4.3,Cor: Vermelho; Tamanho: P
+16,Produto 16,Esportes,SoundMaster,3353.13,3248.46,419,1,1,1,242,4.7,Cor: Vermelho; Tamanho: M
+17,Produto 17,Casa,UrbanWear,105.31,4392.76,755,0,1,1,322,3.7,Cor: Azul; Tamanho: G
+18,Produto 18,Eletrônicos,SoundMaster,1113.18,4496.51,648,0,0,1,373,4.2,Cor: Preto; Tamanho: M
+19,Produto 19,Acessórios,NextTech,3206.77,1832.59,184,0,1,1,365,3.5,Cor: Azul; Tamanho: M
+20,Produto 20,Eletrônicos,UrbanWear,2227.31,2303.74,324,1,1,1,260,4.9,Cor: Vermelho; Tamanho: G
