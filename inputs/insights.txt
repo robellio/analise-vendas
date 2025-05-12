@@ -1,3 +1,4 @@
 # Insights Iniciais
 - Produtos em promoção devem vender mais que os demais.
 - Avaliações altas não necessariamente significam mais vendas.
+- Eletrônicos têm pico de vendas em novembro
