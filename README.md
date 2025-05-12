@@ -26,5 +26,4 @@
 </p>
 
 ![Top 5 Produtos](resultados/graficos/top5_vendas.png)
-![Impacto de Promoções](resultados/graficos/impacto_promocoes.png)
 ![Tendência Sazonal](resultados/graficos/tendencia_sazonal.png)
